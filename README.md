@@ -24,14 +24,19 @@ An introductory course on the world of data science and machine-learning for cos
 
 ## Motivation Behind the Course
 
-### The Structure of the Course
 
-#### Requirements
+## The Structure of the Course
 
-##### Syllabus
 
-###### Structure of the Git
+## Requirements
 
-###### Data Science and Machine-Learning
+
+### Syllabus
+
+
+## Structure of the Git
+
+
+## Data Science and Machine-Learning
 
 
