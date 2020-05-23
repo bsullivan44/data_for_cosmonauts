@@ -1,4 +1,4 @@
-# Data For Cosmonauts ! :star2: :star: :dizzy:
+# Data For Cosmonauts ! :boom: :star2: :star: :dizzy:
 
 An introductory course on the world of data science and machine-learning for cosmonauts.The real purpose of the course though is evidential thinking with data. The method will be those conventional to data-science and machine-learning. 
 
@@ -16,7 +16,7 @@ An introductory course on the world of data science and machine-learning for cos
     + [Sub-sub-heading](#sub-sub-heading-2)
     
 
-## Motivation
+## Motivation :boom: 
 
 This is an h1 heading
 
@@ -28,7 +28,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Syllabus
+## Syllabus :star2:
 
 This is an h1 heading
 
@@ -40,7 +40,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Requirements
+## Requirements :star:
 
 This is an h1 heading
 
@@ -52,7 +52,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Data Science and Machine Learning
+## Data Science and Machine Learning :dizzy:
 
 This is an h1 heading
 
