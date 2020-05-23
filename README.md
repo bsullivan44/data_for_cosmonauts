@@ -22,7 +22,7 @@ The course will consist of 5 courses, once every week unless otherwise scheduled
 
 Week | #1 | #2 | #3 | #4 | #5 
 |--- | --- | --- | --- |--- |---|
-| Introduction | Intro to Python | Basic Statistics and Visualization | Regression and Classification | Clustering | 
+| || Introduction | Intro to Python | Basic Statistics and Visualization | Regression and Classification | Clustering | 
 
 ## Requirements 
 
