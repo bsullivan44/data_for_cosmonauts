@@ -14,7 +14,11 @@ An introductory course on the world of data science and machine-learning for cos
 
 ## Motivation
 
-The motivation behind this course is introduce marxists and comrades to evidential thinking, in the use of data science and machine learning. Marxists and comrades are often  acquainted with statistics, they read economics, history, they use historical evidence to weigh in on academic and public political debates. They are sophisticated reasoners. Therefore the course was designed to help political persons, persons who by their practice, constantly make arguments and points, by teaching a new set of statistical-computational tools to further substantiate these propositions. 
+The motivation behind this course is introduce Marxists and comrades to evidential thinking, in the use of data science and machine learning. 
+
+* Marxists and comrades are often  acquainted with statistics, they read economics, history, they use historical evidence to weigh in on academic and public political debates. They are sophisticated reasoners. 
+
+* Therefore the course was designed to help political persons, persons who by their practice, constantly make arguments and points, by teaching a new set of statistical-computational tools to further substantiate these propositions. 
 
 ## Syllabus
 
