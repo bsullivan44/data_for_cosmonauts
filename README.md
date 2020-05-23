@@ -1,6 +1,6 @@
 # Data For Cosmonauts ! :boom: :star2: :star: :dizzy:
 
-An introductory course on the world of data science and machine-learning for cosmonauts. The real purpose of the course though is evidential thinking with data. The method will be those conventional to data-science and machine-learning. 
+An introductory course on the world of data science and machine-learning for cosmonauts. The broader purpose of the course is evidential thinking with data. The methods taught will be those conventional to data-science and machine-learning. 
 
 - [Motivation](#Motivation)
 - [Syllabus](#Syllabus)
@@ -31,12 +31,12 @@ Week | #1 | #2 | #3 | #4 | #5 |
 
 ## Requirements 
 
-You will need:
+We will be using git, python, a suite of libraries in python, and jupyter notebook to write and run the code in. Therefore, You will need to install on your local machine:
 
 * Anaconda distribution
 * Git
 
-Go to 0-introduction to look for instructions on how to install. 
+Go to 0-introduction to look for instructions on how to install.
 
 ## Data-Science
 
