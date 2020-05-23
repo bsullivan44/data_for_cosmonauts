@@ -47,6 +47,13 @@ This is an h3 heading
 
 This is an h1 heading
 
+You will need:
+
+* Anaconda distribution
+* Git 
+
+Go to 0-introduction to look for instructions on how to install. 
+
 ### Sub-heading
 
 This is an h2 heading
