@@ -5,19 +5,16 @@ An introductory course on the world of data science and machine-learning for cos
 - [Motivation](#Motivation)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
+- [Syllabus](#Syllabus)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
+- [Requirements](#Requirements)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
-
-
-# Heading levels
-
-> This is a fixture to test heading levels
-
-<!-- toc -->
+- [Data Science and Machine Learning](#Data Science and Machine Learning)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
+    
 
 ## Motivation
 
@@ -31,7 +28,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Heading
+## Syllabus
 
 This is an h1 heading
 
@@ -42,36 +39,30 @@ This is an h2 heading
 #### Sub-sub-heading
 
 This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-     
-
-
-## Motivation Behind the Course
-
-
-## The Structure of the Course
-
 
 ## Requirements
 
+This is an h1 heading
 
-### Syllabus
+### Sub-heading
 
+This is an h2 heading
 
-## Structure of the Git
+#### Sub-sub-heading
 
+This is an h3 heading
 
-## Data Science and Machine-Learning
+## Data Science and Machine Learning
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
 
 
