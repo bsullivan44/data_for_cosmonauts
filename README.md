@@ -12,11 +12,11 @@ An introductory course on the world of data science and machine-learning for cos
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 - [Data-Science](#Data-Science)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+  * [Sub-heading](#sub-heading-3)
+    + [Sub-sub-heading](#sub-sub-heading-3)
 - [Machine-Learning](#Machine-Learning)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+  * [Sub-heading](#sub-heading-3)
+    + [Sub-sub-heading](#sub-sub-heading-3)
     
 
 ## Motivation :boom: 
