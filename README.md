@@ -9,7 +9,7 @@ An introductory course on the world of data science and machine-learning for cos
   * [Definition](#Definition)
 - [Machine-Learning](#Machine-Learning)
   * [Definition](#Definition)
-    + [Supervised and Unsupervised Learing](#Supervised and Unsupervised Learning)
+    + [Supervised-and-Unsupervised-Learing](#Supervised and Unsupervised Learning)
     + [Bias-Variance Tradeoff](#Bias-Variance-Tradeoff)
     + [Over-Under-Fitting](#Over-Under-Fitting)
 
