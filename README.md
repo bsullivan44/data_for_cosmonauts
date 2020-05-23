@@ -22,7 +22,7 @@ This is an h1 heading
 
 Week | #1 | #2 | #3 | #4 | #5 | 
 | --- | --- | --- | --- |--- |---|
-|Introduction | Intro to Python | Basic Statistics and Visualization | Regression and Classification | Clustering | 
+||Introduction | Intro to Python | Basic Statistics and Visualization | Regression and Classification | Clustering | 
 
 ## Requirements 
 
