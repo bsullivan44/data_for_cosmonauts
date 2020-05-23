@@ -13,7 +13,7 @@ An introductory course on the world of data science and machine-learning for cos
     + [Sub-sub-heading](#sub-sub-heading-2)
     
 
-## Motivation :boom: 
+## Motivation 
 
 This is an h1 heading
 
