@@ -11,12 +11,6 @@ An introductory course on the world of data science and machine-learning for cos
 - [Requirements](#Requirements)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
-- [Data-Science](#Data-Science)
-  * [Sub-heading](#sub-heading-3)
-    + [Sub-sub-heading](#sub-sub-heading-3)
-- [Machine-Learning](#Machine-Learning)
-  * [Sub-heading](#sub-heading-3)
-    + [Sub-sub-heading](#sub-sub-heading-3)
     
 
 ## Motivation :boom: 
@@ -54,30 +48,4 @@ This is an h2 heading
 #### Sub-sub-heading
 
 This is an h3 heading
-
-## Data Science :star: 
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Machine Learning :dizzy:
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-
 
