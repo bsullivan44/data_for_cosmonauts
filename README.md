@@ -55,7 +55,22 @@ This is an h1 heading
 
 ### What it is
 
-This is an h2 heading
+Let us analyze it in terms of two definitions:
+
+1. functional 
+2. learning machines 
+
+The proverbial bible of machine learning, "Introduction to Statistical Learning", never really defines machine learning, aka statistical learning. 
+
+They begin with an example... then conclude "in essence statistical learning refers to a set of approaches for estimating f". However, this is patently false and it is incredible that it is stated. We will come to understand why.
+
+I found a better definition, and vision, for the whole programme and metholdogy of machine learning in "Statistical Learning for Biomedical Data". Here, the author takes a step back from the mathematical aspect, and tells us "". I like this much more. We are not always trying to generate model that can predict an outcome. In fact, what is most special and promising about machine learning is unsupervised learning, a whole series of tasks that do not make conventional statisitical assumptions, are non-parametric, and give us the ability to derive insights beyond those afforded by prediction. 
+
+### Supervised and Unsupervised Learning
+
+### Bias and Variance 
+
+### Over and Under-Fitting 
 
 #### How we will use it 
 
