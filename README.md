@@ -71,8 +71,4 @@ I found a better definition, and vision, for the whole programme and metholdogy 
 
 #### Bias and Variance 
 
-#### Over and Under-Fitting 
-
-#### How we will use it 
-
-This is an h3 heading
+#### Over and Under-Fitting
