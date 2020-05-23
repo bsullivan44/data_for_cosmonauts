@@ -7,7 +7,7 @@ An introductory course on the world of data science and machine-learning for cos
 - [Requirements](#Requirements)
 - [Data-Science](#Data-Science)
   * [Definition](#Definition)
-    + [The-Elements-of-Data-Science](#The-Elements-of-Data-Science)
+    + [Elements-of-Data-Science](#The-Elements-of-Data-Science)
 - [Machine-Learning](#Machine-Learning)
   * [Definition](#Definition)
     + [Supervised-Unsupervised-Learning](#Supervised-Unsupervised-Learning)
