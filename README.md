@@ -40,15 +40,9 @@ Go to 0-introduction to look for instructions on how to install.
 
 ## Data-Science
 
-This is an h1 heading
-
-### What it is
-
-This is an h2 heading
+### Definition
 
 #### The Elements of Data Science
-
-This is an h3 heading
 
 ## Machine-Learning
 
