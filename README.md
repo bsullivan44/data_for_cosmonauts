@@ -14,7 +14,7 @@ An introductory course on the world of data science and machine-learning for cos
 
 ## Motivation
 
-This is an h1 heading
+The motivation behind this course is introduce marxists and comrades to evidential thinking, in the use of data science and machine learning. Marxists and comrades are often  acquainted with statistics, they read economics, history, they use historical evidence to weigh in on academic and public political debates. They are sophisticated reasoners. Therefore the course was designed to help political persons, persons who by their practice, constantly make arguments and points, by teaching a new set of statistical-computational tools to further substantiate these propositions. 
 
 ## Syllabus
 
@@ -37,11 +37,11 @@ Go to 0-introduction to look for instructions on how to install.
 
 This is an h1 heading
 
-### Sub-heading
+### What it is
 
 This is an h2 heading
 
-#### Sub-sub-heading
+#### The Elements of Data Science
 
 This is an h3 heading
 
@@ -49,10 +49,10 @@ This is an h3 heading
 
 This is an h1 heading
 
-### Sub-heading
+### What it is
 
 This is an h2 heading
 
-#### Sub-sub-heading
+#### How we will use it 
 
 This is an h3 heading
