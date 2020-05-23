@@ -11,10 +11,10 @@ An introductory course on the world of data science and machine-learning for cos
 - [Requirements](#Requirements)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
-- [Data_Science](#DataScience)
+- [Data_Science](#Data_Science)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
-- [Machine_Learning](#MachineLearning)
+- [Machine_Learning](#Machine_Learning)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
     
