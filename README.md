@@ -9,8 +9,6 @@ An introductory course on the world of data science and machine-learning for cos
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Requirements](#Requirements)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
 - [Data-Science](#Data-Science)
   * [Sub-heading](#sub-heading-3)
     + [Sub-sub-heading](#sub-sub-heading-3)
@@ -45,22 +43,12 @@ This is an h3 heading
 
 ## Requirements 
 
-This is an h1 heading
-
 You will need:
 
 * Anaconda distribution
-* Git 
+* Git
 
 Go to 0-introduction to look for instructions on how to install. 
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
 
 ## Data-Science
 
