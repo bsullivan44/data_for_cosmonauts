@@ -4,8 +4,6 @@ An introductory course on the world of data science and machine-learning for cos
 
 - [Motivation](#Motivation)
 - [Syllabus](#Syllabus)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
 - [Requirements](#Requirements)
 - [Data-Science](#Data-Science)
   * [Sub-heading](#sub-heading-3)
@@ -13,7 +11,6 @@ An introductory course on the world of data science and machine-learning for cos
 - [Machine-Learning](#Machine-Learning)
   * [Sub-heading](#sub-heading-4)
     + [Sub-sub-heading](#sub-sub-heading-4)
-    
 
 ## Motivation
 
@@ -21,15 +18,11 @@ This is an h1 heading
 
 ## Syllabus
 
-This is an h1 heading
+The course will consist of 5 courses, once every week unless otherwise scheduled, on a date to be decided by the participants. There will be a cap on how many can participate as students since instructors will work intimately with each person to make sure students actually learn. For now the cap is 20. There will be tiny assignments to do to drill in the information but they are also voluntary. The courses will occur over zoom and will last a full two-hours or more, in order to not speed and enjoy ourselves. 
 
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
+Week | #1 | #2 | #3 | #4 | #5 
+--- | --- | --- | --- |--- |---|
+Material | Introduction | Intro to Python | Basic Statistics and Visualization | Regression and Classification | Clustering | 
 
 ## Requirements 
 
