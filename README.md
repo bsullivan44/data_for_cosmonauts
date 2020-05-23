@@ -3,8 +3,6 @@
 An introductory course on the world of data science and machine-learning for cosmonauts. The real purpose of the course though is evidential thinking with data. The method will be those conventional to data-science and machine-learning. 
 
 - [Motivation](#Motivation)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
 - [Syllabus](#Syllabus)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
@@ -20,14 +18,6 @@ An introductory course on the world of data science and machine-learning for cos
 ## Motivation
 
 This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
 
 ## Syllabus
 
