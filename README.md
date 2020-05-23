@@ -6,11 +6,12 @@ An introductory course on the world of data science and machine-learning for cos
 - [Syllabus](#Syllabus)
 - [Requirements](#Requirements)
 - [Data-Science](#Data-Science)
-  * [Sub-heading](#sub-heading-3)
-    + [Sub-sub-heading](#sub-sub-heading-3)
+  * [Definition](#Definition)
 - [Machine-Learning](#Machine-Learning)
-  * [Sub-heading](#sub-heading-4)
-    + [Sub-sub-heading](#sub-sub-heading-4)
+  * [Definition](#Definition)
+    + [Supervised-Unsupervised](#Supervised-Unsupervised)
+    + [Bias-Variance Tradeoff](#Bias-Variance-Tradeoff])
+    + [Over-Under-Fitting](#Over-Under-Fitting)
 
 ## Motivation
 
@@ -53,7 +54,7 @@ This is an h3 heading
 
 This is an h1 heading
 
-### What it is
+### Definition 
 
 Let us analyze it in terms of two definitions:
 
@@ -66,11 +67,11 @@ They begin with an example... then conclude "in essence statistical learning ref
 
 I found a better definition, and vision, for the whole programme and metholdogy of machine learning in "Statistical Learning for Biomedical Data". Here, the author takes a step back from the mathematical aspect, and tells us "". I like this much more. We are not always trying to generate model that can predict an outcome. In fact, what is most special and promising about machine learning is unsupervised learning, a whole series of tasks that do not make conventional statisitical assumptions, are non-parametric, and give us the ability to derive insights beyond those afforded by prediction. 
 
-### Supervised and Unsupervised Learning
+#### Supervised and Unsupervised Learning
 
-### Bias and Variance 
+#### Bias and Variance 
 
-### Over and Under-Fitting 
+#### Over and Under-Fitting 
 
 #### How we will use it 
 
