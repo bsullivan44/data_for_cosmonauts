@@ -1,2 +1,22 @@
 # Data For Cosmonauts ! :star2: :star: :dizzy:
-A introductory course on the world of data science and machine-learning for cosmonauts. Intended to wet the appetite and allow cosmonauts to learn more and use data in their own work. 
+
+An introductory course on the world of data science and machine-learning for cosmonauts.The real purpose of the course though is evidential thinking with data. The method will be those conventional to data-science and machine-learning. 
+
+
+## Motivation Behind the Course: 
+
+
+## The Structure of the Course: 
+
+
+## Syllabus: 
+
+
+## Requirements and Dependencies 
+
+
+## Structure of the Git
+
+
+
+
