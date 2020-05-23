@@ -31,7 +31,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Syllabus :star2:
+## Syllabus :fire: 
 
 This is an h1 heading
 
@@ -43,7 +43,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Requirements :star:
+## Requirements :star2: 
 
 This is an h1 heading
 
@@ -55,7 +55,19 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Data Science and Machine Learning :dizzy:
+## Data Science :star: 
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+## Machine Learning :dizzy:
 
 This is an h1 heading
 
