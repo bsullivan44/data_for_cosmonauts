@@ -36,9 +36,9 @@ Week | #1 | #2 | #3 | #4 | #5 |
 
 There will be a cap on how many can participate since instructors will work intimately with each person to make sure things are set up and students actually get something out of the experience. For now the cap is 20. 
 
-The courses will occur over zoom, will last a full two-hours or more.
+The courses will occur over Zoom, will last a full two-hours or more.
 
-Registration is through the [Cosmonaut Patreon](https://www.patreon.com/cosmonautmagazine). Please donate and support the project! 
+Registration is through the [Cosmonaut Patreon](https://www.patreon.com/cosmonautmagazine). A doodle will be sent out to vote for a start date and class time, along with the zoom link. Please donate and support the project! 
 
 ## Requirements 
 
