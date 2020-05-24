@@ -26,17 +26,17 @@ The motivation behind this course is introduce Marxists and comrades to the use 
 
 The course will consist of 5 module. They will occur once every week unless otherwise scheduled. The course will begin on a date to be decided by the participants and will take place on weekends. 
 
-There will be a cap on how many can participate as students since instructors will work intimately with each person to make sure things are set up and students actually get something out of the experience. For now the cap is 20. 
-
-The courses will occur over zoom, will last a full two-hours or more, in order to not speed and enjoy ourselves. 
-
-Registration is through the Cosmonaut Patreon. 
-
 The folliwing table records the content and schedule: 
 
 Week | #1 | #2 | #3 | #4 | #5 | 
 | --- | --- | --- | --- |--- |---|
 | **Material** |Introduction to Course | Introduction to Python | Basic Statistics and Visualization | Regression and Classification | Clustering | 
+
+There will be a cap on how many can participate as students since instructors will work intimately with each person to make sure things are set up and students actually get something out of the experience. For now the cap is 20. 
+
+The courses will occur over zoom, will last a full two-hours or more.
+
+Registration is through the Cosmonaut Patreon. 
 
 ## Requirements 
 
