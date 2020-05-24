@@ -28,7 +28,7 @@ The motivation behind this course is introduce Marxists and comrades to evidenti
 
 Week | #1 | #2 | #3 | #4 | #5 | 
 | --- | --- | --- | --- |--- |---|
-||Introduction to Course | Introduction to Python | Basic Statistics and Visualization | Regression and Classification | Clustering | 
+| **Material** |Introduction to Course | Introduction to Python | Basic Statistics and Visualization | Regression and Classification | Clustering | 
 
 ## Requirements 
 
