@@ -28,7 +28,7 @@ The motivation behind this course is introduce Marxists and comrades to the use 
 
 The course will consist of 5 module. They will occur once every week unless otherwise scheduled. The course will begin on a date to be decided by the participants and will take place on weekends. 
 
-The folliwing table records the content and schedule: 
+The following table records the content and schedule: 
 
 Week | #1 | #2 | #3 | #4 | #5 | 
 | --- | --- | --- | --- |--- |---|
