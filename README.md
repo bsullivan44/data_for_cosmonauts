@@ -61,10 +61,10 @@ Data science is not a self-contained and static discipline, set of methods, or e
 
 ### Definition 
 
-Let us analyze it in terms of two definitions:
+Let us analyze it in terms of:
 
-1. functional 
-2. learning machines 
+1. Functions 
+2. Learning Machines 
 
 The proverbial bible of machine learning, "Introduction to Statistical Learning", never really defines machine learning, aka statistical learning. 
 
