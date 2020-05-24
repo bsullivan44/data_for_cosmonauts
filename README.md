@@ -37,7 +37,6 @@ We will be using git, python, a suite of libraries in python, and jupyter notebo
 | --------------- | 
 | * Anaconda distribution| 
 | * Git | 
-| Row 3 Column 1 |
 
 Go to 0-introduction to look for instructions on how to install.
 
