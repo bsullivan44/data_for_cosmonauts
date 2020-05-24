@@ -53,8 +53,6 @@ The Marxist doctrine is omnipotent because it is true. It is comprehensive and h
 
 ## Machine-Learning
 
-This is an h1 heading
-
 ### Definition 
 
 Let us analyze it in terms of two definitions:
