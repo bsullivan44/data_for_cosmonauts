@@ -57,13 +57,13 @@ Go to 0-introduction and read the README.md to look for instructions on how to i
 
 #### The Elements of Data Science
 
-Data science is not a self-contained and static discipline, set of methods, or research programme. The constitutive interdisciplinarity recalls the famous Lenin quote of Lenin on Marxist theory in ["The Three Sources and the Three Components of Marxism"](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm):
+Data science is not a self-contained and static discipline, set of methods, or research programme. The constitutive interdisciplinarity recalls the famous Lenin quote of Lenin on Marxist theory in ["The Three Sources and Three Components of Marxism"](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm):
 
 *But this is not all. The history of philosophy and the history of social science show with perfect clarity that there is nothing resembling “sectarianism” in Marxism, in the sense of its being a hidebound, petrified doctrine, a doctrine which arose away from the high road of the development of world civilisation. On the contrary, the genius of Marx consists precisely in his having furnished answers to questions already raised by the foremost minds of mankind. His doctrine emerged as the direct and immediate continuation of the teachings of the greatest representatives of philosophy, political economy and socialism.*
 
 *The Marxist doctrine is omnipotent because it is true. It is comprehensive and harmonious, and provides men with an integral world outlook irreconcilable with any form of superstition, reaction, or defence of bourgeois oppression. It is the legitimate successor to the best that man produced in the nineteenth century, as represented by German philosophy, English political economy and French socialism.*
 
-If we were to make an analogy, data science is at the intersection of developments within three contemporary disciplines i.e. computer-science, statistics, and domain-knowledge. Figure 1 shows this. 
+Now, I doubt many Marxists want to claim Marxism is omnipotent, even though they consider it largely true. And data science is not even the sort of the subject for which omnipotent applies. Certainly no data scientist is omnipotent. Yet, taking this quote for its best aspects, if we were to make an analogy, data science is at the intersection of developments within three contemporary disciplines i.e. computer-science, statistics, and domain-knowledge. Figure 1 shows this. 
 
 ![Image of Elements of Data Science](https://github.com/Djamil17/data_for_cosmonauts/blob/master/elements_of_datasci.png)
 
@@ -86,6 +86,8 @@ I found a better definition, and vision, for the whole programme and metholdogy 
 
 #### Supervised-Unsupervised Learning
 
+
 #### Bias-Variance Tradeoff
+
 
 #### Over-Under Fitting
