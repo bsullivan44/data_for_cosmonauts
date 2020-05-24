@@ -24,7 +24,11 @@ The motivation behind this course is introduce Marxists and comrades to evidenti
 
 ## Syllabus
 
-* The course will consist of 5 courses, once every week unless otherwise scheduled, on a date to be decided by the participants. There will be a cap on how many can participate as students since instructors will work intimately with each person to make sure students actually learn. For now the cap is 20. There will be tiny assignments to do to drill in the information but they are also voluntary. The courses will occur over zoom and will last a full two-hours or more, in order to not speed and enjoy ourselves. 
+The course will consist of 5 courses, once every week unless otherwise scheduled, on a date to be decided by the participants. 
+
+There will be a cap on how many can participate as students since instructors will work intimately with each person to make sure students actually learn. For now the cap is 20. The courses will occur over zoom and will last a full two-hours or more, in order to not speed and enjoy ourselves. 
+
+The folliwing table records the content and schedule: 
 
 Week | #1 | #2 | #3 | #4 | #5 | 
 | --- | --- | --- | --- |--- |---|
