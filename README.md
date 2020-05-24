@@ -22,7 +22,7 @@ The motivation behind this course is introduce Marxists and comrades to the use 
 
 * Marxists and comrades are often acquainted with statistics, they read economics, history, they use statistical, economic, and historical evidence to weigh in on academic and public political debates. They are sophisticated reasoners. 
 
-* Therefore the course was designed to help teach a set of statistical-computational tools to further substantiate these arguments and points. 
+* Therefore, the course was designed to teach statistical-computational tools to help political persons substantiate their arguments and points.
 
 ## Syllabus
 
