@@ -32,7 +32,7 @@ Week | #1 | #2 | #3 | #4 | #5 |
 | --- | --- | --- | --- |--- |---|
 | **Material** |Introduction to Course | Introduction to Python | Basic Statistics and Visualization | Regression and Classification | Clustering | 
 
-There will be a cap on how many can participate as students since instructors will work intimately with each person to make sure things are set up and students actually get something out of the experience. For now the cap is 20. 
+There will be a cap on how many can participate since instructors will work intimately with each person to make sure things are set up and students actually get something out of the experience. For now the cap is 20. 
 
 The courses will occur over zoom, will last a full two-hours or more.
 
@@ -57,13 +57,17 @@ Go to 0-introduction and read the README.md to look for instructions on how to i
 
 #### The Elements of Data Science
 
-Data science is not a self-contained and static discipline, set of methods, or even philosophy. The constitutive interdisciplinarity recalls the famous Lenin quote of Lenin on Marxist theory in "The Three Sources and the Three Components of Marxism": 
+Data science is not a self-contained and static discipline, set of methods, or research programme. The constitutive interdisciplinarity recalls the famous Lenin quote of Lenin on Marxist theory in "The Three Sources and the Three Components of Marxism": 
 
 *But this is not all. The history of philosophy and the history of social science show with perfect clarity that there is nothing resembling “sectarianism” in Marxism, in the sense of its being a hidebound, petrified doctrine, a doctrine which arose away from the high road of the development of world civilisation. On the contrary, the genius of Marx consists precisely in his having furnished answers to questions already raised by the foremost minds of mankind. His doctrine emerged as the direct and immediate continuation of the teachings of the greatest representatives of philosophy, political economy and socialism.*
 
 *The Marxist doctrine is omnipotent because it is true. It is comprehensive and harmonious, and provides men with an integral world outlook irreconcilable with any form of superstition, reaction, or defence of bourgeois oppression. It is the legitimate successor to the best that man produced in the nineteenth century, as represented by German philosophy, English political economy and French socialism.*
 
+If we were to make an analogy, data science is at the intersection of developments within three contemporary disciplines i.e. computer-science, statistics, and domain-knowledge. 
+
 ![Image of Elements of Data Science](https://github.com/Djamil17/data_for_cosmonauts/blob/master/elements_of_datasci.png)
+
+The first two are both too common and too hard to define. What is meant by domain-knowledge is that for instance if the data scientist is tasked with attempting to predict chemical reactions between elements and molecules from a table of features about those molecules and elements then they must have *scientific knowledge of the elements and molecules, which in the extreme means knowledge of contemporary chemistry*. Such knowledge will be crucial in understanding how to pre-process the features, what models to select, and assessing the results of analysis. That means both assuring the coherence of the results, but also the deeper scientific insights to derive from the "numbers". 
 
 ## Machine-Learning
 
