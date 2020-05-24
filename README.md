@@ -65,7 +65,7 @@ Data science is not a self-contained and static discipline, set of methods, or r
 
 Now, I doubt many Marxists want to claim Marxism is omnipotent, even though they consider it largely true. And data science is not even the sort of the subject for which omnipotent applies. Certainly no data scientist is omnipotent. Yet, taking this quote for its best aspects, if we were to make an analogy, data science is at the intersection of developments within three contemporary disciplines i.e. computer-science, statistics, and domain-knowledge. Figure 1 shows this. 
 
-![Image of Elements of Data Science](https://github.com/Djamil17/data_for_cosmonauts/blob/master/elements_of_datasci.png)
+![Image of Elements of Data Science](https://github.com/Djamil17/data_for_cosmonauts/blob/master/ven-diagram-elements-of-data-science)
 
 The first two are both too common and too hard to define. What is meant by domain-knowledge is that for instance if the data scientist is tasked with attempting to predict chemical reactions between elements and molecules from a table of features about those molecules and elements then they must have *scientific knowledge of the elements and molecules, which in the extreme means knowledge of contemporary chemistry*. Such knowledge will be crucial in understanding how to pre-process the features, what models to select, and assessing the results of analysis. That means both assuring the coherence of the results, but also the deeper scientific insights to derive from the "numbers". 
 
