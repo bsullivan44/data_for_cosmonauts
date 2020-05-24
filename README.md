@@ -38,7 +38,7 @@ There will be a cap on how many can participate since instructors will work inti
 
 The courses will occur over zoom, will last a full two-hours or more.
 
-Registration is through the [Cosmonaut Patreon] (https://www.patreon.com/cosmonautmagazine). Please donate and support the project! 
+Registration is through the [Cosmonaut Patreon](https://www.patreon.com/cosmonautmagazine).Please donate and support the project! 
 
 ## Requirements 
 
