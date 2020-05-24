@@ -36,7 +36,9 @@ Week | #1 | #2 | #3 | #4 | #5 |
 
 ## Requirements 
 
-We will be using git, python, a suite of libraries in python, and jupyter notebook to write and run the code in. Therefore, You will need to install on your local machine:
+We will be using git, python, a suite of libraries in python, and jupyter notebook to write and run the code in.
+
+Therefore, you will need to install on your local machine:
 
 ||
 | --------------- | 
