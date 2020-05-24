@@ -16,17 +16,21 @@ An introductory course on the world of data science and machine-learning for cos
 
 ## Motivation
 
-The motivation behind this course is introduce Marxists and comrades to evidential thinking, in the use of data science and machine learning. 
+The motivation behind this course is introduce Marxists and comrades to the use of data science and machine learning. 
 
-* Marxists and comrades are often  acquainted with statistics, they read economics, history, they use historical evidence to weigh in on academic and public political debates. They are sophisticated reasoners. 
+* Marxists and comrades are often acquainted with statistics, they read economics, history, they use statistical, economic, and historical evidence to weigh in on academic and public political debates. They are sophisticated reasoners. 
 
-* Therefore the course was designed to help political persons, persons who by their practice, constantly make arguments and points, by teaching a new set of statistical-computational tools to further substantiate these propositions. 
+* Therefore the course was designed to help teach a set of statistical-computational tools to further substantiate these arguments and points. 
 
 ## Syllabus
 
-The course will consist of 5 courses, once every week unless otherwise scheduled, on a date to be decided by the participants. 
+The course will consist of 5 module. They will occur once every week unless otherwise scheduled. The course will begin on a date to be decided by the participants and will take place on weekends. 
 
-There will be a cap on how many can participate as students since instructors will work intimately with each person to make sure students actually learn. For now the cap is 20. The courses will occur over zoom and will last a full two-hours or more, in order to not speed and enjoy ourselves. 
+There will be a cap on how many can participate as students since instructors will work intimately with each person to make sure things are set up and students actually get something out of the experience. For now the cap is 20. 
+
+The courses will occur over zoom, will last a full two-hours or more, in order to not speed and enjoy ourselves. 
+
+Registration is through the Cosmonaut Patreon. 
 
 The folliwing table records the content and schedule: 
 
