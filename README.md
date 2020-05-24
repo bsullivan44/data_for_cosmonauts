@@ -63,7 +63,7 @@ Data science is not a self-contained and static discipline, set of methods, or r
 
 *The Marxist doctrine is omnipotent because it is true. It is comprehensive and harmonious, and provides men with an integral world outlook irreconcilable with any form of superstition, reaction, or defence of bourgeois oppression. It is the legitimate successor to the best that man produced in the nineteenth century, as represented by German philosophy, English political economy and French socialism.*
 
-If we were to make an analogy, data science is at the intersection of developments within three contemporary disciplines i.e. computer-science, statistics, and domain-knowledge. 
+If we were to make an analogy, data science is at the intersection of developments within three contemporary disciplines i.e. computer-science, statistics, and domain-knowledge. Figure 1 shows this. 
 
 ![Image of Elements of Data Science](https://github.com/Djamil17/data_for_cosmonauts/blob/master/elements_of_datasci.png)
 
