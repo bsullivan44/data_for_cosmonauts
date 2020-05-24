@@ -45,6 +45,12 @@ Go to 0-introduction to look for instructions on how to install.
 
 #### The Elements of Data Science
 
+Data science is not a self-contained and static discipline, set of methods, or even philosophy. The constitutive interdisciplinarity recalls the famous Lenin quote of Lenin on Marxist theory in "The Three Sources and the Three Components of Marxism": 
+
+*But this is not all. The history of philosophy and the history of social science show with perfect clarity that there is nothing resembling “sectarianism” in Marxism, in the sense of its being a hidebound, petrified doctrine, a doctrine which arose away from the high road of the development of world civilisation. On the contrary, the genius of Marx consists precisely in his having furnished answers to questions already raised by the foremost minds of mankind. His doctrine emerged as the direct and immediate continuation of the teachings of the greatest representatives of philosophy, political economy and socialism.
+
+The Marxist doctrine is omnipotent because it is true. It is comprehensive and harmonious, and provides men with an integral world outlook irreconcilable with any form of superstition, reaction, or defence of bourgeois oppression. It is the legitimate successor to the best that man produced in the nineteenth century, as represented by German philosophy, English political economy and French socialism.*
+
 ## Machine-Learning
 
 This is an h1 heading
