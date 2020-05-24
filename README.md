@@ -1,4 +1,4 @@
-![Image of Elements of Data Science](https://github.com/Djamil17/data_for_cosmonauts/blob/master/cosmic-imagination.jpeg)
+![Image of Elements of Data Science](https://github.com/Djamil17/data_for_cosmonauts/blob/master/cosmic-imagination.jpg)
 
 # Data For Cosmonauts ! :boom: :star2: :star: :dizzy:
 
