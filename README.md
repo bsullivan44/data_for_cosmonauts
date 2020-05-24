@@ -36,10 +36,10 @@ We will be using git, python, a suite of libraries in python, and jupyter notebo
 
 | *************** |
 | --------------- | 
-| * Anaconda distribution| 
-| * Git | 
+| Anaconda distribution| 
+| Git | 
 
-Go to 0-introduction to look for instructions on how to install.
+Go to 0-introduction and read the README.md to look for instructions on how to install.
 
 ## Data-Science
 
