@@ -1,3 +1,5 @@
+![Image of Elements of Data Science](https://github.com/Djamil17/data_for_cosmonauts/blob/master/cosmic-imagination.jpeg)
+
 # Data For Cosmonauts ! :boom: :star2: :star: :dizzy:
 
 An introductory course on the world of data science and machine-learning for cosmonauts. The broader purpose of the course is evidential thinking with data. The methods taught will be those conventional to data-science and machine-learning. 
