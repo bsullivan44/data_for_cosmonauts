@@ -42,7 +42,7 @@ Registration is through the [Cosmonaut Patreon](https://www.patreon.com/cosmonau
 
 ## Requirements 
 
-We will be using git, python, a suite of libraries in python, and jupyter notebook to write and run the code in. Therefore, you will need to install on your local machine:
+We will be using Git, Python, and Jupyter notebook to write and run the code in. Therefore, you will need to install on your local machine:
 
 ||
 | --------------- | 
@@ -54,6 +54,8 @@ Go to [0-introduction](https://github.com/Djamil17/data_for_cosmonauts/tree/mast
 ## Data-Science
 
 ### Definition
+
+
 
 #### The Elements of Data Science
 
