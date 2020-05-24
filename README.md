@@ -34,8 +34,10 @@ Week | #1 | #2 | #3 | #4 | #5 |
 
 We will be using git, python, a suite of libraries in python, and jupyter notebook to write and run the code in. Therefore, You will need to install on your local machine:
 
-* Anaconda distribution
-* Git
+| --------------- | 
+| * Anaconda distribution| 
+| * Git | 
+| Row 3 Column 1 |
 
 Go to 0-introduction to look for instructions on how to install.
 
